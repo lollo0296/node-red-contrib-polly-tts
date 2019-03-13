@@ -384,10 +384,10 @@ module.exports = function(RED) {
         },
 		'48': {
             Gender: 'Female',
-            Id: 'Viki',
+            Id: 'Vicki',
             LanguageCode: 'de-DE',
             LanguageName: 'German',
-            Name: 'Viki'
+            Name: 'Vicki'
         }
     };
 
